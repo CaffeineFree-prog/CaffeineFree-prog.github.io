@@ -52,8 +52,8 @@ education:
           Study algorithms and data structures, computer and network design,
           modeling data and information processes.
           - Disctrete mathematics
-          - Java programming          
-	  - Database system
+          - Java programming                    
+          - Database system
     - degree: BSc in English
       university: Busan University of Foreign Studies
       time: 03/2021 - 08/2016
@@ -62,7 +62,7 @@ education:
           - English linguistics
           - Composition
           - Technical communication
-		  
+  
     - degree: Training Course
       Institute: Green Computer Art Academy
       time: 10/2020 - 05/2021
@@ -77,7 +77,7 @@ experiences:
           and updating existing web applications using scripting languages.
           - creating well-designed, tested code using best practices for new website project
           - maintaining and adding new feaures for websites on Java and PHP
-	  - immediate response to the error reported by clients
+          - immediate response to the error reported by clients
 
 projects:
     title: Projects
