@@ -45,7 +45,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: BD in Computer Science (3rd grade)
+    - degree: BD in Computer Science       (3rd grade)
       university: Korea National Open University
       time: 03/2022 - 03/2024
       details: |
