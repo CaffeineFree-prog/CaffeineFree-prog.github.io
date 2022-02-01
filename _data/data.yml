@@ -45,7 +45,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: BD in Computer Science       (3rd grade)
+    - degree: BD in Computer Science (3rd grade)
       university: Korea National Open University
       time: 03/2022 - 03/2024
       details: |
@@ -103,18 +103,18 @@ publications:
     papers:
       - title: "Ulsan Namgu Sports"
         link: "http://www.namgusports-ulsan.or.kr/dhsports/index.do"
-        authors: 
+        authors: Java
         conference: "register on-site for extra applicants -> register on-line for extra applicants "
 
       - title: "Kyung Dong Invest"
         link: "http://www.kdinvest.co.kr/company/company01_08.php"
-        authors: 
+        authors: PHP
         conference: "Added online report function"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Dong Kang Hospital"
+        link: "https://www.dkmc.or.kr/"
+        authors: PHP, ASP
+        conference: "Edited year-end tax adjustment"
 
 skills:
     title: Skills &amp; Proficiency
