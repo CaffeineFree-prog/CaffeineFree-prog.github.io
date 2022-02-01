@@ -101,17 +101,17 @@ publications:
     intro: |
       Websites for maintenace at Story Co.
     papers:
-      - title: "Ulsan Namgu Sports"
+      - title: Ulsan Namgu Sports
         link: "http://www.namgusports-ulsan.or.kr/dhsports/index.do"
         authors: Java
         conference: "register on-site for extra applicants -> register on-line for extra applicants "
 
-      - title: "Kyung Dong Invest"
+      - title: Kyung Dong Invest
         link: "http://www.kdinvest.co.kr/company/company01_08.php"
         authors: PHP
         conference: "Added online report function"
 
-      - title: "Dong Kang Hospital"
+      - title: Dong Kang Hospital
         link: "https://www.dkmc.or.kr/"
         authors: PHP, ASP
         conference: "Edited year-end tax adjustment"
