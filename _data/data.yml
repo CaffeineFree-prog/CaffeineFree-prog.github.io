@@ -45,7 +45,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: Bachelor's Degree in Computer Science (3rd grade)
+    - degree: BD in Computer Science (3rd grade)
       university: Korea National Open University
       time: 03/2022 - 03/2024
       details: |
@@ -54,7 +54,7 @@ education:
           - Disctrete mathematics
           - Java programming                    
           - Database system
-    - degree: Bachelor's Degree in English (graduated)
+    - degree: BD in English (graduated)
       university: Busan University of Foreign Studies
       time: 03/2021 - 08/2016
       details: |
@@ -63,7 +63,7 @@ education:
           - Composition
           - Technical communication
   
-    - degree: Training Course
+    - degree: Back-end Developer Bootcamp
       university: Green Computer Art Academy
       time: 10/2020 - 05/2021
       details: |
