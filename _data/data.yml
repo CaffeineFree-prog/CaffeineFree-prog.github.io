@@ -82,7 +82,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Projects at Story Co.
+      Projects finished at Story Co.
     assignments:
       - title: Ulsan Tour Website
         link: "https://tour.ulsan.go.kr/kor/main.ulsan"
@@ -90,36 +90,26 @@ projects:
 
       - title: Ulsan Job Website
         link: "https://www.ujf.or.kr/job/main.do"
-        tagline: "Offical Ulsan Job Website basically provides the recruiting platform both for the company and the jobseekers"
+        tagline: "Offical Ulsan Job Website basically offers a free recruiting platform both for the company and the jobseekers"
 
       - title: Ulsan Job Support Project (not open to public)
         link: "#"
         tagline: "A CMS for goverment employee to manage companies and jobseekers for providing subsidy"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Maintenance
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Websites for maintenace at Story Co.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Ulsan Namgu Sports"
+        link: "http://www.namgusports-ulsan.or.kr/dhsports/index.do"
+        authors: 
+        conference: "register on-site for extra applicants -> register on-line for extra applicants "
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Kyung Dong Invest"
+        link: "http://www.kdinvest.co.kr/company/company01_08.php"
+        authors: 
+        conference: "Added online report function"
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
