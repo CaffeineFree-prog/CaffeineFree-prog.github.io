@@ -38,12 +38,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Inspired by my Dad who was a networking specialist, 
+      I grew up spending a lot of time in front of the computer from the young age. 
+      I used to decorate simple webpages using HTML tags and 
+      start to show great interest both in human language and computer language.
+      After finishing a boot camp course for java developer, 
+      I decided to become a Back-end developer with industry experience building software.
 education:
     - degree: BSc in Computer Science (3rd year)
       university: Korea National Open University
