@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Boeun Choi
     tagline: Junior Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: pro.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: briannaforipad@gmail.com
@@ -45,30 +45,29 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: BD in Computer Science (3rd grade)
+    - degree: BSc in Computer Science (3rd year)
       university: Korea National Open University
-      time: 03/2022 - 03/2024
+      time: 2022/03 - 2024/03
       details: |
           Study algorithms and data structures, computer and network design,
           modeling data and information processes.
           - Disctrete mathematics
           - Java programming                    
           - Database system
+    - degree: Back-end Developer Bootcamp
+      university: Green Computer Art Academy
+      time: 2020/10 - 2021/05
+      details: |
+        6 months of full-time bootcamp for back-end developer
     - degree: BD in English (graduated)
       university: Busan University of Foreign Studies
-      time: 03/2021 - 08/2016
+      time: 2021/03 - 2016/08
       details: |
           Study and explore texts created in English
           - English linguistics
           - Composition
           - Technical communication
-  
-    - degree: Back-end Developer Bootcamp
-      university: Green Computer Art Academy
-      time: 10/2020 - 05/2021
-      details: |
-        6 months of full-time bootcamp for back-end developer
-experiences:
+experience:
     - role: Junior Web Developer
       time: 05/2021 - Present
       company: Story Co. , Ulsan, South Korea
@@ -76,8 +75,8 @@ experiences:
         responsible for assisting with the creation of websites 
           and updating existing web applications using scripting languages.
           - creating well-designed, tested code using best practices for new website project
-          - maintaining and adding new feaures for websites on Java and PHP
-          - immediate response to the error reported by clients
+          - maintaining and adding new features for websites using Java and PHP
+          - immediately responding to errors reported by clients
 
 projects:
     title: Projects
@@ -90,14 +89,14 @@ projects:
 
       - title: Ulsan Job Website
         link: "https://www.ujf.or.kr/job/main.do"
-        tagline: "Offical Ulsan Job Website basically offers a free recruiting platform both for the company and the jobseekers"
+        tagline: "Offical Ulsan Job Website offers a free recruiting platform both for the company and the jobseekers"
 
       - title: Ulsan Job Support Project (not open to public)
         link: "#"
-        tagline: "A CMS for goverment employee to manage companies and jobseekers for providing subsidy"
+        tagline: "A CMS for goverment employees to manage companies and jobseekers for providing subsidy"
 
 publications:
-    title: Maintenance
+    title: Websites maintained
     intro: |
       Websites for maintenace at Story Co.
     papers:
