@@ -38,12 +38,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Inspired by my Dad who was a networking specialist, 
-      I grew up spending a lot of time in front of the computer from the young age. 
+      Taking after my father who was a networking specialist, 
+      I grew up spending a lot of time in front of the computer from a young age.
       I used to decorate simple webpages using HTML tags and 
-      start to show great interest both in human language and computer language.
-      After finishing a boot camp course for java developer, 
-      I decided to become a Back-end developer with industry experience building software.
+      started to show great interest in both human and computer languages.
+      After finishing a boot camp course for Java developers, I decided to become a back-end developer.
 education:
     - degree: BSc in Computer Science (3rd year)
       university: Korea National Open University
@@ -93,12 +92,12 @@ projects:
 
       - title: Ulsan Job Support Project (not open to public)
         link: "#"
-        tagline: "A CMS for goverment employees to manage companies and jobseekers for providing subsidy"
+        tagline: "A CMS for goverment employees to manage companies and jobseekers for the purpose of providing subsidies"
 
 publications:
     title: Websites maintained
     intro: |
-      Websites for maintenace at Story Co.
+      Websites maintained at Story Co.
     papers:
       - title: Ulsan Namgu Sports
         link: "http://www.namgusports-ulsan.or.kr/dhsports/index.do"
